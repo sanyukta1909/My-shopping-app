@@ -1,0 +1,288 @@
+[
+    {
+        "name": "Fashion",
+        "subcategories": [
+            {
+                "name": "Men",
+                "subcategories": [
+                    {
+                        "name": "Ethnic Wear"
+                    },
+                    {
+                        "name": "Western Wear"
+                    },
+                    {
+                        "name": "Footwear"
+                    },
+                    {
+                        "name": "Accessories"
+                    }
+                ]
+            },
+            {
+                "name": "Women",
+                "subcategories": [
+                    {
+                        "name": "Ethnic Wear"
+                    },
+                    {
+                        "name": "Western Wear"
+                    },
+                    {
+                        "name": "Footwear"
+                    },
+                    {
+                        "name": "Accessories"
+                    }
+                ]
+            },
+            {
+                "name": "Kids",
+                "subcategories": [
+                    {
+                        "name": "Ethnic Wear"
+                    },
+                    {
+                        "name": "Western Wear"
+                    },
+                    {
+                        "name": "Footwear"
+                    },
+                    {
+                        "name": "Accessories"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Electronics",
+        "subcategories": [
+            {
+                "name": "Mobile Phones"
+            },
+            {
+                "name": "Laptops"
+            },
+            {
+                "name": "Wireless EarBuds"
+            },
+            {
+                "name": "Bluetooth Speakers"
+            },
+            {
+                "name": "Home Theaters"
+            },
+            {
+                "name": "Sound Bars"
+            }
+        ]
+    },
+    {
+        "name": "Home Appliances",
+        "subcategories": [
+            {
+                "name": "Refrigerators"
+            },
+            {
+                "name": "Washing Machines"
+            },
+            {
+                "name": "TV"
+            },
+            {
+                "name": "Microwaves"
+            },
+            {
+                "name": "Induction"
+            }
+        ]
+    },
+    {
+        "name": "Beauty,Toys & more",
+        "subcategories": [
+            {
+                "name": "Mens Grooming",
+                "subcategories": [
+                    {
+                        "name": "Shaving"
+                    },
+                    {
+                        "name": "Hair Removal"
+                    },
+                    {
+                        "name": "Face Care"
+                    },
+                    {
+                        "name": "Body Care"
+                    },
+                    {
+                        "name": "Oral Care"
+                    },
+                    {
+                        "name": "Men's Fragrance"
+                    }
+                ]
+            },
+            {
+                "name": "Beauty & personal care",
+                "subcategories": [
+                    {
+                        "name": "Personal Hygiene"
+                    },
+                    {
+                        "name": "Skin Care"
+                    },
+                    {
+                        "name": "Hair Care"
+                    },
+                    {
+                        "name": "Eye Makeup"
+                    },
+                    {
+                        "name": "Face Makeup"
+                    },
+                    {
+                        "name": "Bath & Oral care"
+                    },
+                    {
+                        "name": "Body & Skin care"
+                    }
+                ]
+            },
+            {
+                "name": "Toys & School Supplies",
+                "subcategories": [
+                    {
+                        "name": "Toys & Games"
+                    },
+                    {
+                        "name": "Soft Toys"
+                    },
+                    {
+                        "name": "Puzzles"
+                    },
+                    {
+                        "name": "Board Games"
+                    },
+                    {
+                        "name": "School Bags & backpacks"
+                    },
+                    {
+                        "name": "School Supplies"
+                    }
+                ]
+            } 
+        ]
+    },
+    {
+        "name": "Grocery",
+        "subcategories": [
+            {
+                "name": "Staples",
+                "subcategories": [
+                    {
+                        "name": "Rice & Pulses"
+                    },
+                    {
+                        "name": "Flour & Semolina"
+                    },
+                    {
+                        "name": "Sugar & Jaggery"
+                    },
+                    {
+                        "name": "Salt & Spices"
+                    },
+                    {
+                        "name": "Tea & Coffee"
+                    },
+                    {
+                        "name": "Oils & Ghee"
+                    }
+                ]
+            },
+            {
+                "name": "Snacks & Beverages",
+                "subcategories": [
+                    {
+                        "name": "Biscuits & Cookies"
+                    },
+                    {
+                        "name": "Chocolates & Candies"
+                    },
+                    {
+                        "name": "Juices & Drinks"
+                    },
+                    {
+                        "name": "Sweets & Desserts"
+                    }
+                ]
+            },
+            {
+                "name": "Packaged Food",
+                "subcategories": [
+                    {
+                        "name": "Noodles & pasta"
+                    },
+                    {
+                        "name": "Ketchups & Spreads"
+                    },
+                    {
+                        "name": "Jams & Honey"
+                    },
+                    {
+                        "name": "Pickels & Chutney"
+                    }
+                ]
+            },
+            {
+                "name": "Personal & Baby care",
+                "subcategories": [
+                    {
+                        "name": "Toiletries & Cosmetics"
+                    },
+                    {
+                        "name": "Deo, Perfumes & Talc"
+                    },
+                    {
+                        "name": "Sanitary Needs"
+                    },
+                    {
+                        "name": "Diapers & Wipes"
+                    }
+                ]
+            },
+            {
+                "name": "Household Care",
+                "subcategories": [
+                    {
+                        "name": "Cleaning Products"
+                    },
+                    {
+                        "name": "Laundry Detergents"
+                    },
+                    {
+                        "name": "Floor & Cleaners"
+                    },
+                    {
+                        "name": "Repellant & Freshners"
+                    }
+                ]
+            },
+            {
+                "name": "Dairy & eggs",
+                "subcategories": [
+                    {
+                        "name": "Milk & Milk Products"
+                    },
+                    {
+                        "name": "Breads & Sandwiches"
+                    },
+                    {
+                        "name": "Cheese"
+                    }
+                ]
+            }
+        ]
+    }
+]
